@@ -1,12 +1,12 @@
 # PROJ_AC1_API
 
-# Base de datos "Alumnat"
+## Base de datos "Alumnat"
 
 En primer lugar hemos creado una base de datos utilizando HeidiSQL. Esta base de datos tiene el nombre de "Alumnat" y cuenta con dos tablas: "Aula" y "Alumne".
 
 <img src="imagenes/cap1.png" alt="captura1">
 
-# Tabla "Aula"
+## Tabla "Aula"
 
 Columnas de la tabla "Aula":
 
@@ -20,7 +20,7 @@ En esta imagen podemos ver los datos de "Aula", que han estado introducidos de f
 
 <img src="imagenes/cap3.png" alt="captura3">
 
-# Tabla "Alumne"
+## Tabla "Alumne"
 
 Columnas de la tabla "Alumne":
 
